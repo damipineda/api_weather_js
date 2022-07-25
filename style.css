@@ -14,7 +14,7 @@ body{
 
 :root {
 
-  --bg-color: #2C2C2C;
+  --bg-color: black;
   --text-color: #F3F6F5;
   font-size: 18px;
 }
