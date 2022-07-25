@@ -40,11 +40,12 @@ p {
 }
 
 .searchbox {
+  display: flex;
   padding: 10px 20px;
   background-color: var(--text-color);
   max-width: 480px;
   margin: 0px auto;
-  border-radius: 3px;
+  border-radius: 20px;
 }
 
 .search {
@@ -110,4 +111,9 @@ justify-content: center;
 .weather {
   font-size: 1.8rem;
   margin-bottom: 1rem;
+}
+
+h2{
+  color: #2C2C2C;
+  justify-content: center;
 }
